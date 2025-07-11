@@ -57,3 +57,20 @@
     transform: rotate(360deg) scale(1.5);
 
 }
+.main3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main5{
+      display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
