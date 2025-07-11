@@ -61,16 +61,22 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 30px;
+    margin: 50px;
 }
 .main4{
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 30px;
+    margin: 50px;
 }
 .main5{
       display: flex;
     justify-content: center;
     align-items: center;
+    gap: 30px;
+    margin: 50px;
 }
 
 
